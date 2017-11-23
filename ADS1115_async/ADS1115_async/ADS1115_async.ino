@@ -7,7 +7,7 @@
 // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 #include <Wire.h>
-#include <ADS1015_async.h>
+#include <ADS1115_async.h>
 
 // Receiving variables
 float voltage = 0.0;  // Voltage measured by ADS1015 for 8 different input configurations
